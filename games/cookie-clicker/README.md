@@ -1,8 +1,5 @@
 # Cookie Clicker Automation Script
 
-[English](#english)
----
-
 ## English
 
 This script is specifically optimized for the mobile game *Cookies* (Cookie Clicker), designed to maximize your Cookies Per Second (CPS) and fully automate resource collection.
@@ -23,7 +20,12 @@ This script is specifically optimized for the mobile game *Cookies* (Cookie Clic
 2. **Import Configuration:** Open your **AutoClickerFast** app, navigate to Configuration Management, and select **Import** to load the `.json` file.
 3. **Launch the Game:** Open the *Cookies* game, ensure your screen orientation matches, and press **Play** to start farming!
 
-> 💡 *Need help importing? Please check the visual guide at `assets/useGuide.jpg` for step-by-step instructions.*
+
+> 💡 **Need help importing?** Please follow the visual guide below for step-by-step instructions:
+> <div align="center">
+>   <img src="../../assets/useGuide.jpg" alt="Import Guide" width="200" />
+>   <p><i>Step-by-step import instructions guide</i></p>
+> </div>
 
 ---
 
