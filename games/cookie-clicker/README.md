@@ -34,3 +34,8 @@ Experience the most beautiful Material 3 interface on Android:
 **Auto Clicker Fast: Empowering you with control beyond the touch screen.**
 
 For more technical docs, visit our [Project Wiki](https://github.com/autoclickerfast/auto-clicker-guides/wiki).
+
+
+[![Share on X](https://img.shields.io/badge/Share_on_X-Click_to_Tweet-blue?logo=x&style=flat-square)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20Cookie%20Clicker%20automation%20script%20for%20Android!%20&url=https://github.com/autoclickerfast/auto-clicker-scripts/blob/main/games/cookie-clicker/README.md&hashtags=CookieClicker,AutoClicker)
+
+
