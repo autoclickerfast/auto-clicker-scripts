@@ -23,7 +23,7 @@ This script is specifically optimized for the mobile game *Cookies* (Cookie Clic
 
 > 💡 **Need help importing?** Please follow the visual guide below for step-by-step instructions:
 > <div align="center">
->   <img src="../../assets/useGuide.jpg" alt="Import Guide" width="200" />
+>   <img src="../../assets/useGuide.jpg" alt="Import Guide" width="300" />
 >   <p><i>Step-by-step import instructions guide</i></p>
 > </div>
 
