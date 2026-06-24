@@ -10,19 +10,25 @@ Welcome to the official script hub for **Auto Clicker Fast - Auto Tap**! This re
 ### 📲 Get the App
 To run these scripts and experience high-speed automation, download our official app from Google Play:
 
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.itdragon.autoclickerfree)
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=google-play&logoColor=white&style=for-the-badge)](https://play.google.com/store/apps/details?id=com.itdragon.autoclickerfree)
 
-> **Direct Link:** [Auto Clicker Fast - Auto Tap on Google Play](https://play.google.com/store/apps/details?id=com.itdragon.autoclickerfree)
+---
 
-### 📂 Script Categories
-* **Gaming**: Auto-farming, daily task automation, and rapid-fire clicking for top mobile games.
-* **Utility**: Fast-filling forms, rapid web refreshing, and automated navigation.
-* **Templates**: Professional base scripts for you to customize and build your own automation logic.
+### 📂 Available Scripts
+
+Here is the curated list of optimized automation scripts available in this repository. Click on the game/utility name to view full guides and setup instructions.
+
+| Category | Game or Utility | Features | Script & Guide |
+| :--- | :--- | :--- | :--- |
+| 🎮 **Gaming** | **Cookie Clicker (Cookies)** | Double-row 13-point tapping, auto chest & drop capture. | [👉 View Guide & Script](./games/cookie-clicker/README.md) |
+
+
+---
 
 ### 🛠 How to Use
-1. **Download** the script file from this repository.
+1. **Navigate** to the specific script folder above and download the `.json` file.
 2. **Open** the [Auto Clicker Fast](https://play.google.com/store/apps/details?id=com.itdragon.autoclickerfree) app.
-3. **Import** the script via the Script Manager.
+3. **Import** the script via the Configuration Management / Script Manager.
 4. **Run** and enjoy the automation!
 
 ### 🤝 Contribute
