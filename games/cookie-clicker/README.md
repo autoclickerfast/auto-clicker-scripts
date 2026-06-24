@@ -11,7 +11,7 @@ This script is specifically optimized for the mobile game *Cookies* (Cookie Clic
 
 ### 📸 UI Reference
 <div align="center">
-  <img src="../../assets/AutoClickerFast_Cookies.jpg" alt="Cookie Clicker Target Points" width="200" />
+  <img src="../../assets/AutoClickerFast_Cookies.jpg" alt="Cookie Clicker Target Points" width="400" />
   <p><i>13-Point multi-target layout optimized for the Cookies game</i></p>
 </div>
 
@@ -23,7 +23,7 @@ This script is specifically optimized for the mobile game *Cookies* (Cookie Clic
 
 > 💡 **Need help importing?** Please follow the visual guide below for step-by-step instructions:
 > <div align="center">
->   <img src="../../assets/useGuide.jpg" alt="Import Guide" width="400" />
+>   <img src="../../assets/useGuide.jpg" alt="Import Guide" width="200" />
 >   <p><i>Step-by-step import instructions guide</i></p>
 > </div>
 
