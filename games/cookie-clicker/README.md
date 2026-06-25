@@ -14,7 +14,7 @@ This script is specifically optimized for the mobile game *Cookies* (Cookie Clic
 </div>
 
 ## 🚀 How to Use
-1. **Download the Script:** Download the `AutoClickerFast_Cookies.json` file from this directory to your phone.
+1. **Download the Script:** Download the [AutoClickerFast_Cookies.json](./AutoClickerFast_Cookies.json) file from this directory to your phone.
 2. **Import Configuration:** Open your **AutoClickerFast** app, navigate to Configuration Management, and select **Import** to load the `.json` file.
 3. **Launch the Game:** Open the *Cookies* game, ensure your screen orientation matches, and press **Play** to start farming!
 
