@@ -21,6 +21,7 @@ Here is the curated list of optimized automation scripts available in this repos
 | Category | Game or Utility | Features | Script & Guide |
 | :--- | :--- | :--- | :--- |
 | 🎮 **Gaming** | **Cookie Clicker (Cookies)** | Double-row 13-point tapping, auto chest & drop capture. | [👉 View Guide & Script](./games/cookie-clicker/README.md) |
+| 🎮 **Gaming** | **Cash Inc.** | Multi-floor auto tapping, automated profit collection for lazy play. | [👉 View Guide & Script](./games/cash-inc/README.md) |
 
 
 ---
