@@ -1,6 +1,5 @@
 # Cash Inc. Automation Script
 
-## English
 
 This script is specifically optimized for the idle business game *Cash Inc.*, designed to fully automate business tapping and revenue collection so you can grow your financial empire hands-free.
 
@@ -20,13 +19,13 @@ This script is specifically optimized for the idle business game *Cash Inc.*, de
 2. **Import Configuration:** Open your **AutoClickerFast** app, navigate to Configuration Management, and select **Import** to load the `.json` file.
 3. **Launch the Game:** Open the *Cash Inc.* game, ensure your screen orientation matches, and press **Play** to start farming!
 
+
 > 💡 **Need help importing?** Please follow the visual guide below for step-by-step instructions:
 > <div align="center">
 >   <img src="../../assets/useGuide.jpg" alt="Import Guide" width="200" />
 >   <p><i>Step-by-step import instructions guide</i></p>
 > </div>
 
----
 
 ## 📥 Stay Updated
 Experience the most beautiful Material 3 interface on Android:
