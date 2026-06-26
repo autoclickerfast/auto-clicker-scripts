@@ -22,6 +22,8 @@ Here is the curated list of optimized automation scripts available in this repos
 | :--- | :--- | :--- | :--- |
 | 🎮 **Gaming** | **Cookie Clicker (Cookies)** | Double-row 13-point tapping, auto chest & drop capture. | [👉 View Guide & Script](./games/cookie-clicker/README.md) |
 | 🎮 **Gaming** | **Cash Inc.** | Multi-floor auto tapping, automated profit collection for lazy play. | [👉 View Guide & Script](./games/cashInc-clicker/README.md) |
+| 🎮 **Gaming** | **Planet Evolution** | Circular 18-point tapping layout for max resource generation and orbital drops. | [👉 View Guide & Script](./games/planet-evolution/README.md) |
+| 🎮 **Gaming** | **Capybara Clicker** | Focused single-target ultra-fast clicking to rapidly stack multipliers and unlock upgrades. | [👉 View Guide & Script](./games/capybara-clicker/README.md) |
 
 
 ---
