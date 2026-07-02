@@ -24,6 +24,8 @@ Here is the curated list of optimized automation scripts available in this repos
 | 🎮 **Gaming** | **Cash Inc.** | Multi-floor auto tapping, automated profit collection for lazy play. | [👉 View Guide & Script](./games/cashInc-clicker/README.md) |
 | 🎮 **Gaming** | **Planet Evolution** | Circular 18-point tapping layout for max resource generation and orbital drops. | [👉 View Guide & Script](./games/planet-evolution-clicker/README.md) |
 | 🎮 **Gaming** | **Capybara Clicker** | Focused single-target ultra-fast clicking to rapidly stack multipliers and unlock upgrades. | [👉 View Guide & Script](./games/capybara-clicker/README.md) |
+| 🎮 **Gaming** | **Tap Tap Dig** | Isometric 25-point grid layout for maximum mining damage and auto item collection. | [👉 View Guide & Script](./games/taptapbig-clicker/README.md) |
+| 🎮 **Gaming** | **Terrarium: Garden Idle** | Multi-shelf plant targeting and automatic floating oxygen bubble harvesting. | [👉 View Guide & Script](./games/terrarium-clicker/README.md) |
 
 
 ---
