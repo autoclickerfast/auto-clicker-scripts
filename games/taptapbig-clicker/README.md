@@ -9,7 +9,7 @@ This script is specifically optimized for the idle mining clicker game *Tap Tap 
 
 ## 📸 UI Reference
 <div align="center">
-  <img src="../../assets/AutoClickerFast_TapTapBig.jpg" alt="Tap Tap Dig Target Points" width="400" />
+  <img src="../../assets/AutoClickerFast_Tap Tap Big.jpg" alt="Tap Tap Dig Target Points" width="400" />
   <p><i>25-Point dense grid layout optimized for the Tap Tap Dig game</i></p>
 </div>
 
